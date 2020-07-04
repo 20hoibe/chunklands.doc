@@ -9,7 +9,7 @@
   "tsconfig": "typedoc.tsconfig.json",
   "mode": "modules",
   "plugin": [
-    "typedoc-plugin-markdown"
+    "none"
   ],
-  "theme": "markdown"
+  "theme": "default"
 }
