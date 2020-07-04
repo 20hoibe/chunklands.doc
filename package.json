@@ -1,0 +1,26 @@
+{
+  "name": "chunklands.wiki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "doc": "typedoc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/20hoibe/chunklands.wiki.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/20hoibe/chunklands.wiki/issues"
+  },
+  "homepage": "https://github.com/20hoibe/chunklands.wiki#readme",
+  "devDependencies": {
+    "@types/node": "^14.0.14",
+    "typedoc": "^0.17.8",
+    "typedoc-plugin-markdown": "^2.3.1",
+    "typescript": "^3.9.6"
+  }
+}

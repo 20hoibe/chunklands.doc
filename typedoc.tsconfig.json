@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "Node",
+    "allowJs": true,
+    "target": "ES2020",
+    "lib": ["ES2020"],
+    "outDir": ""
+  },
+  "include": [
+    "chunklands/src/game/Game.js",
+    "chunklands/src/game/noise.js"
+  ],
+  "exclude": [
+    "node_modules",
+    "**/*.test.js"
+  ]
+}

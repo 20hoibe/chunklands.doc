@@ -1,0 +1,3 @@
+[submodule "chunklands"]
+	path = chunklands
+	url = git@github.com:20hoibe/chunklands.git

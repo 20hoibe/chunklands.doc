@@ -1,0 +1,15 @@
+{
+  "out": "build",
+  "includeDeclarations": true,
+  "excludeExternals": true,
+  "excludeNotDocumented": true,
+  "excludeNotExported": true,
+  "readme": "none",
+  "name": "Chunklands Documentation",
+  "tsconfig": "typedoc.tsconfig.json",
+  "mode": "modules",
+  "plugin": [
+    "typedoc-plugin-markdown"
+  ],
+  "theme": "markdown"
+}
