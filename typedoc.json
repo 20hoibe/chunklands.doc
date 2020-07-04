@@ -1,5 +1,5 @@
 {
-  "out": "build",
+  "out": "docs",
   "includeDeclarations": true,
   "excludeExternals": true,
   "excludeNotDocumented": true,
